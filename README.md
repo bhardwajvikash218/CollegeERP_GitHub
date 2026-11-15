@@ -70,3 +70,10 @@ College Management System – Web Development Project
 
 ### Student Dashboard
 ![Student Dashboard](screenshots/student-dashboard.png)
+## Database Setup
+
+1. Open phpMyAdmin.
+2. Create a database named college_erp.
+3. Import database/college_erp.sql.
+4. Configure JDBC connection.
+5. Run the project using Apache Tomcat.
