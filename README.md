@@ -57,3 +57,16 @@ Vikas Kumar
 Project Type
 
 College Management System – Web Development Project
+## Project Screenshots
+
+### Admin Login
+![Admin Login](screenshots/admin-login.png)
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### Student Login
+![Student Login](screenshots/student-login.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/student-dashboard.png)
