@@ -164,12 +164,12 @@ try {
 
                     <a href="addSubjects.jsp"
                        class="btn btn-primary">
-                        Manage Subjects
+                        Add Subject
                     </a>
 
                     <a href="viewSubjects.jsp"
                        class="btn btn-success">
-                        Add Subject
+                        Manage Subjects
                     </a>
                 </div>
             </div>
